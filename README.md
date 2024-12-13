@@ -19,4 +19,7 @@ This project implements a self-balancing binary search tree (AVL Tree) in C++. T
 #### Custom Memory Management: Proper resource management with deep copy and destructor implementations.
 
 #### Rotations: Single and double rotations to maintain balance.
-`rere
+
+# License
+
+This project is open-source and available under the MIT License. See the LICENSE file for details.
