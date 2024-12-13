@@ -24,4 +24,4 @@ This project implements a self-balancing binary search tree (AVL Tree) in C++. T
 
 This project is open-source and available under the MIT License. See the LICENSE file for details.
 
-https://www.google.com/imgres?q=rotations%20in%20BST&imgurl=https%3A%2F%2Fpages.cs.wisc.edu%2F~qingyi%2FRatation.png&imgrefurl=https%3A%2F%2Fpages.cs.wisc.edu%2F~qingyi%2F&docid=ysfbe8sxUc6KQM&tbnid=o_JEqfsm5mX7GM&vet=12ahUKEwjd4fnh6qWKAxUOBNsEHZQbKlcQM3oECGsQAA..i&w=3750&h=3125&hcb=2&ved=2ahUKEwjd4fnh6qWKAxUOBNsEHZQbKlcQM3oECGsQAA
+![Rotation Example](https://www.google.com/imgres?q=rotations%20in%20BST&imgurl=https%3A%2F%2Fpages.cs.wisc.edu%2F~qingyi%2FRatation.png&imgrefurl=https%3A%2F%2Fpages.cs.wisc.edu%2F~qingyi%2F&docid=ysfbe8sxUc6KQM&tbnid=o_JEqfsm5mX7GM&vet=12ahUKEwjd4fnh6qWKAxUOBNsEHZQbKlcQM3oECGsQAA..i&w=3750&h=3125&hcb=2&ved=2ahUKEwjd4fnh6qWKAxUOBNsEHZQbKlcQM3oECGsQAA)
