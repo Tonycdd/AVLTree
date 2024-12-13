@@ -24,4 +24,4 @@ This project implements a self-balancing binary search tree (AVL Tree) in C++. T
 
 This project is open-source and available under the MIT License. See the LICENSE file for details.
 
-(![Rotation Example](./rotation_example.png))
+(![Rotation Example](./Untitled.png))
