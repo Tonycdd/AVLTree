@@ -4,7 +4,7 @@
 
 This project implements a self-balancing binary search tree (AVL Tree) in C++. The AVL Tree supports standard operations such as insertion, deletion, and search while maintaining balance. Additionally, it includes extended features such as:
 
-# Rank Queries: Determine how many elements are smaller than a given key.
+### Rank Queries: Determine how many elements are smaller than a given key.
 
 # Index Access: Retrieve elements by their index in the sorted order.
 
